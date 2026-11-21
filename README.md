@@ -102,4 +102,4 @@ Python · pandas · NumPy · scikit-learn · Matplotlib · Google Colab
 
 **Héctor Giovani García Alvarado** — AI Engineering student, ESCOM-IPN
 
-[LinkedIn](https://www.linkedin.com/in/hector-alvarado-b66a16424) · [GitHub](https://github.com/hgalvaradot)
+[LinkedIn](https://www.linkedin.com/in/hector-alvaradop) · [GitHub](https://github.com/hgalvaradot)
