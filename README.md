@@ -17,7 +17,7 @@ Machine learning model that estimates the market price of a house for sale in th
 - Calibrated **80% prediction interval** and a confidence flag when there are few comparable homes nearby.
 - Validated with 5-fold cross-validation × 3 seeds, plus GroupKFold by neighborhood to test on areas the model never saw.
 
-![Model comparison](images/model_comparison.png)
+![Model comparison](model_comparison.png)
 
 ## Problem
 
@@ -67,7 +67,7 @@ Out-of-sample metrics on total price:
 
 ```
 ├── PREDICTOR-PRECIO-CASAS-GAM-CDMX.ipynb   # full CRISP-DM analysis, executed
-├── images/                                 # figures used in this README
+├── model_comparison.png                    # figure used in this README
 ├── requirements.txt
 └── LICENSE
 ```
